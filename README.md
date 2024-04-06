@@ -1,3 +1,3 @@
-# AOSP Build Releases
+# Custom Rom Build Releases
 
-Basically repo for releases of roms built by me :D
+Basically repo for releases of roms build by me :D
